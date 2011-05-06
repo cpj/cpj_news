@@ -1,0 +1,6 @@
+name = CPJ News
+description = install profile for cooperpointjournal.com
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+files[] = cpj_news.profile
