@@ -1,6 +1,15 @@
 name = CPJ News
 description = install profile for cooperpointjournal.com
 core = 7.x
+
+
+; dependancies.
+; these modules will be installed in the site automatically when it is built by aegir:
 dependencies[] = block
 dependencies[] = dblog
+
+; add any other modules that are needed, like our custom modules and features.
+
+
+
 files[] = cpj_news.profile
