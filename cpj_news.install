@@ -1,5 +1,8 @@
 <?php
 
+/* in this file we can make a certain theme be default, place blocks on pages,
+ * and pretty much anything else a module can do. */
+
 /**
  * Implements hook_install().
  *

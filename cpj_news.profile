@@ -1,5 +1,7 @@
 <?php
 
+/* YOU PROBABLY WON'T HAVE TO DO ANYTHING WITH THIS FILE */
+
 /**
  * Implements hook_form_FORM_ID_alter().
  *
