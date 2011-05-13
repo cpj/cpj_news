@@ -21,8 +21,8 @@ core = 7.x
 ; the following example downloads the 3.x-dev version views module
 ; and places it in profiles/cpj_news/modules/contrib/views 
 
-projects[views][subdir] = "contrib"
-projects[views][version] = "3.x-dev"
+;projects[views][subdir] = "contrib"
+;projects[views][version] = "3.x-dev"
 
 ; Custom modules
 
@@ -32,7 +32,7 @@ projects[views][version] = "3.x-dev"
 projects[EXAMPLE!!!][subdir] = "custom"
 projects[EXAMPLE!!!][type] = "module"
 projects[EXAMPLE!!!][download][type] = "git"
-projects[EXAMPLE!!!][download][url] = "git://github.com/sethvincent/EXAMPLE!!!.git
+projects[EXAMPLE!!!][download][url] = "git://github.com/cpj/cpj_news_features.git"
 
 
 ; Contrib themes
@@ -46,9 +46,9 @@ projects[rubik][version] = "4.0-beta4"
 
 ; downloading custom themes from github is very similar to downloading custom modules:
 
-projects[EXAMPLE!!!][type] = "theme"
-projects[EXAMPLE!!!][download][type] = "git"
-projects[EXAMPLE!!!][download][url] = "git://github.com/sethvincent/EXAMPLE!!!.git
+;projects[EXAMPLE!!!][type] = "theme"
+;projects[EXAMPLE!!!][download][type] = "git"
+;projects[EXAMPLE!!!][download][url] = "git://github.com/sethvincent/EXAMPLE!!!.git
 
 
 

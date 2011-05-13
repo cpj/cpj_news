@@ -7,6 +7,7 @@ core = 7.x
 ; these modules will be installed in the site automatically when it is built by aegir:
 dependencies[] = block
 dependencies[] = dblog
+dependencies[] = loginregisterpanel
 
 ; add any other modules that are needed, like our custom modules and features.
 
