@@ -29,10 +29,10 @@ core = 7.x
 ; our custom modules are hosted on git, so the download code looks a little different.
 ; we also want our custom modules and themes to go into a folder called custom, rather than contrib
 
-projects[EXAMPLE!!!][subdir] = "custom"
-projects[EXAMPLE!!!][type] = "module"
-projects[EXAMPLE!!!][download][type] = "git"
-projects[EXAMPLE!!!][download][url] = "git://github.com/cpj/cpj_news_features.git"
+projects[cpj_news][subdir] = "custom"
+projects[cpj_news][type] = "module"
+projects[cpj_news][download][type] = "git"
+projects[cpj_news][download][url] = "git://github.com/cpj/cpj_news_features.git"
 
 
 ; Contrib themes
