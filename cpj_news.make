@@ -23,7 +23,8 @@ core = 7.x
 
 ;projects[views][subdir] = "contrib"
 ;projects[views][version] = "3.x-dev"
-
+projects[Chaos tool suite] = "contrib"
+projects[Chaos tool suite] = 7.x-1.0-alpha4"
 ; Custom modules
 
 ; our custom modules are hosted on git, so the download code looks a little different.
