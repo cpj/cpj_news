@@ -23,10 +23,10 @@ core = 7.x
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.x-dev"
-projects[CTools] = "contrib"
-projects[CTools] = "7.x-1.0-alpha4"
-projects[Panels] = "contrib"
-projects[Panels] = "7.x-3.0-alpha3"
+projects[ctools] = "contrib"
+projects[ctools] = "7.x-1.0"
+projects[panels] = "contrib"
+projects[panels] = "7.x-3.0-alpha3"
 ; Custom modules
 
 ; our custom modules are hosted on git, so the download code looks a little different.
