@@ -21,10 +21,12 @@ core = 7.x
 ; the following example downloads the 3.x-dev version views module
 ; and places it in profiles/cpj_news/modules/contrib/views 
 
-;projects[views][subdir] = "contrib"
-;projects[views][version] = "3.x-dev"
-projects[Chaos tool suite] = "contrib"
-projects[Chaos tool suite] = 7.x-1.0-alpha4"
+projects[views][subdir] = "contrib"
+projects[views][version] = "3.x-dev"
+projects[CTools] = "contrib"
+projects[CTools] = "7.x-1.0-alpha4"
+projects[Panels] = "contrib"
+projects[Panels] = "7.x-3.0-alpha3"
 ; Custom modules
 
 ; our custom modules are hosted on git, so the download code looks a little different.
