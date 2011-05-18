@@ -23,19 +23,25 @@ core = 7.x
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.x-dev"
-projects[ctools] = "contrib"
-projects[ctools] = "1.x-dev"
-projects[panels] = "contrib"
-projects[panels] = "3.x-dev"
+projects[ctools][subdir] = "contrib"
+projects[ctools][version] = "1.x-dev"
+projects[panels][subdir] = "contrib"
+projects[panels][version] = "3.x-dev"
+projects[features][subdir] = "contrib"
+projects[features][version] = "1.0-beta2"
+projects[nodeblock][subdir] = "contrib"
+projects[nodeblock][version] = "1.x-dev"
+projects[formblock][subdir] = "contrib"
+projects[formblock][version] = "1.x-dev"
 ; Custom modules
 
 ; our custom modules are hosted on git, so the download code looks a little different.
 ; we also want our custom modules and themes to go into a folder called custom, rather than contrib
 
-projects[cpj_news][subdir] = "custom"
-projects[cpj_news][type] = "module"
-projects[cpj_news][download][type] = "git"
-projects[cpj_news][download][url] = "git://github.com/cpj/cpj_news_features.git"
+;projects[cpj_news][subdir] = "custom"
+;projects[cpj_news][type] = "module"
+;projects[cpj_news][download][type] = "git"
+;projects[cpj_news][download][url] = "git://github.com/cpj/cpj_news_features.git"
 
 
 ; Contrib themes
