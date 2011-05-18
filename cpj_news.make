@@ -29,8 +29,6 @@ projects[panels][subdir] = "contrib"
 projects[panels][version] = "3.x-dev"
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta2"
-projects[nodeblock][subdir] = "contrib"
-projects[nodeblock][version] = "1.x-dev"
 projects[formblock][subdir] = "contrib"
 projects[formblock][version] = "1.x-dev"
 ; Custom modules
