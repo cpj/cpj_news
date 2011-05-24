@@ -36,10 +36,10 @@ projects[formblock][version] = "1.x-dev"
 ; our custom modules are hosted on git, so the download code looks a little different.
 ; we also want our custom modules and themes to go into a folder called custom, rather than contrib
 
-;projects[cpj_news][subdir] = "custom"
-;projects[cpj_news][type] = "module"
-;projects[cpj_news][download][type] = "git"
-;projects[cpj_news][download][url] = "git://github.com/cpj/cpj_news_features.git"
+projects[cpj_news][subdir] = "custom"
+projects[cpj_news][type] = "module"
+projects[cpj_news][download][type] = "git"
+projects[cpj_news][download][url] = "git://github.com/cpj/cpj_news_features.git"
 
 
 ; Contrib themes
