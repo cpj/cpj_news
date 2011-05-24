@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the LoginRegisterPanel feature.
- */
-
-include_once('loginregisterpanel.features.inc');
