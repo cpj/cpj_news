@@ -176,13 +176,6 @@ projects[cpj_news_features][download][type] = "git"
 projects[cpj_news_features][download][url] = "git://github.com/cpj/cpj_news_features.git"
 
 
-; Contrib themes
-
-; this will download the admin theme rubik and the tao base theme it uses:
-
-projects[tao][version] = "3.0-beta3"
-projects[rubik][version] = "4.0-beta4"
-
 ; Custom themes
 
 ; downloading custom themes from github is very similar to downloading custom modules:
@@ -198,6 +191,6 @@ projects[cpj_base_theme][download][url] = "git://github.com/cpj/cpj_base_theme.g
 ; we need the tinymce library to use as a wysiwyg editor:
 
 ; TinyMCE 
-; libraries[tinymce][download][type] = "get"
-; libraries[tinymce][download][url] = "https://sourceforge.net/projects/tinymce/files/TinyMCE/3.3.9.2/tinymce_3_3_9_2.zip"
-; libraries[tinymce][directory_name] = "tinymce"
+libraries[tinymce][download][type] = "get"
+libraries[tinymce][download][url] = "https://sourceforge.net/projects/tinymce/files/TinyMCE/3.3.9.2/tinymce_3_3_9_2.zip"
+libraries[tinymce][directory_name] = "tinymce"
