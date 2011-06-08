@@ -27,6 +27,12 @@ projects[panels][version] = "3.x-dev"
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta2"
 
+projects[uuid][subdir] = "contrib"
+projects[uuid][version] = "1.0-alpha1"
+
+projects[uuid_features][subdir] = "contrib"
+projects[uuid_features][version] = "1.x-dev"
+
 projects[formblock][subdir] = "contrib"
 projects[formblock][version] = "1.x-dev"
 
