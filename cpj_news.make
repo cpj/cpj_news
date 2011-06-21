@@ -171,6 +171,11 @@ projects[globalredirect][version] = "1.x-dev"
 projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.x-dev"
 
+projects[toolbar_styles][type] = "module"
+projects[toolbar_styles][subdir] = "contrib"
+projects[toolbar_styles][download][type] = "git"
+projects[toolbar_styles][download][url] = "http://git.drupal.org/sandbox/seth.vincent/1118774"
+
 ; Custom modules
 
 ; our custom modules are hosted on git, so the download code looks a little different.
