@@ -54,6 +54,9 @@ projects[wysiwyg][version] = "2.x-dev"
 projects[image_resize_filter][subdir] = "contrib"
 projects[image_resize_filter][version] = "1.13"
 
+projects[imagecache_profiles][subdir] = "contrib"
+projects[imagecache_profiles][version] = "1.x-dev"
+
 projects[insert][subdir] = "contrib"
 projects[insert][version] = "1.1"
 
@@ -67,13 +70,13 @@ projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-alpha3"
 
 projects[strongarm][subdir] = "contrib"
-projects[strongarm][version] = "2.x-dev"
+projects[strongarm][version] = "2.0-beta4"
 
 projects[pux][subdir] = "contrib"
 projects[pux][version] = "1.0-alpha2"
 
 projects[boxes][subdir] = "contrib"
-projects[boxes][version] = "1.x-dev"
+projects[boxes][version] = "1.0-beta6"
 
 projects[diff][subdir] = "contrib"
 projects[diff][version] = "2.x-dev"
@@ -94,16 +97,16 @@ projects[references][subdir] = "contrib"
 projects[references][version] = "2.x-dev"
 
 projects[nodereference_url][subdir] = "contrib"
-projects[nodereference_url][version] = "1.11"
+projects[nodereference_url][version] = "1.12"
 
 projects[conditional_fields][subdir] = "contrib"
 projects[conditional_fields][version] = "3.x-dev"
 
 projects[workbench][subdir] = "contrib"
-projects[workbench][version] = "1.0-beta6"
+projects[workbench][version] = "1.1"
 
 projects[workbench_moderation][subdir] = "contrib"
-projects[workbench_moderation][version] = "1.x-dev"
+projects[workbench_moderation][version] = "1.1"
 
 projects[workbench_access][subdir] = "contrib"
 projects[workbench_access][version] = "1.x-dev"
@@ -111,8 +114,17 @@ projects[workbench_access][version] = "1.x-dev"
 projects[flag][subdir] = "contrib"
 projects[flag][version] = "2.x-dev"
 
+projects[openlayers][subdir] = "contrib"
+projects[openlayers][version] = "2.x-dev"
+
+projects[geofield][subdir] = "contrib"
+projects[geofield][version] = "1.x-dev"
+
+projects[honeypot][subdir] = "contrib"
+projects[honeypot][version] = "1.8"
+
 projects[menu_token][subdir] = "contrib"
-projects[menu_token][version] = "1.0-alpha2"
+projects[menu_token][version] = "1.0-alpha3"
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.x-dev"
@@ -138,8 +150,14 @@ projects[smartcrop][version] = "1.x-dev"
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.x-dev"
 
+projects[views_slideshow][subdir] = "contrib"
+projects[views_slideshow][version] = "3.x-dev"
+
+projects[field_group][subdir] = "contrib"
+projects[field_group][version] = "2.x-dev"
+
 projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.x-dev"
+projects[pathauto][version] = "1.0"
 
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.x-dev"
