@@ -31,7 +31,7 @@ projects[uuid][subdir] = "contrib"
 projects[uuid][version] = "1.0-alpha2"
 
 projects[uuid_features][subdir] = "contrib"
-projects[uuid_features][version] = "1.x-dev"
+projects[uuid_features][version] = "1.0-alpha1"
 
 projects[formblock][subdir] = "contrib"
 projects[formblock][version] = "1.x-dev"
@@ -57,6 +57,9 @@ projects[image_resize_filter][version] = "1.13"
 projects[imagecache_profiles][subdir] = "contrib"
 projects[imagecache_profiles][version] = "1.x-dev"
 
+projects[image_caption][subdir] = "contrib"
+projects[image_caption][version] = "1.x-dev"
+
 projects[insert][subdir] = "contrib"
 projects[insert][version] = "1.1"
 
@@ -74,6 +77,18 @@ projects[strongarm][version] = "2.0-beta4"
 
 projects[pux][subdir] = "contrib"
 projects[pux][version] = "1.0-alpha2"
+
+projects[logintoboggan][subdir] = "contrib"
+projects[logintoboggan][version] = "1.3"
+
+projects[realname][subdir] = "contrib"
+projects[realname][version] = "1.x-dev"
+
+projects[realname_registration][subdir] = "contrib"
+projects[realname_registration][version] = "2.x-dev"
+
+projects[stringoverrides][subdir] = "contrib"
+projects[stringoverrides][version] = "1.8"
 
 projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.0-beta6"
@@ -109,7 +124,7 @@ projects[workbench_moderation][subdir] = "contrib"
 projects[workbench_moderation][version] = "1.1"
 
 projects[workbench_access][subdir] = "contrib"
-projects[workbench_access][version] = "1.x-dev"
+projects[workbench_access][version] = "1.0"
 
 projects[flag][subdir] = "contrib"
 projects[flag][version] = "2.x-dev"
@@ -153,6 +168,9 @@ projects[field_slideshow][version] = "1.x-dev"
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.x-dev"
 
+projects[views_infinite_scroll][subdir] = "contrib"
+projects[views_infinite_scroll][version] = "1.x-dev"
+
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "2.x-dev"
 
@@ -160,13 +178,19 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0"
 
 projects[advanced_help][subdir] = "contrib"
-projects[advanced_help][version] = "1.x-dev"
+projects[advanced_help][version] = "1.0-beta1"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.x-dev"
 
 projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.0-alpha1"
+
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "1.x-dev"
+
+projects[google_admanager][subdir] = "contrib"
+projects[google_admanager][version] = "2.x-dev"
 
 projects[toolbar_styles][type] = "module"
 projects[toolbar_styles][subdir] = "contrib"
