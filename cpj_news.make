@@ -57,6 +57,12 @@ projects[date][version] = "2.x-dev"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
 
+projects[elements][subdir] = "contrib"
+projects[elements][version] = "1.x-dev"
+
+projects[html5_tools][subdir] = "contrib"
+projects[html5_tools][version] = "1.x-dev"
+
 projects[fit_text][subdir] = "contrib"
 projects[fit_text][version] = "1.0"
 
