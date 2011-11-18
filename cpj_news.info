@@ -72,5 +72,15 @@ dependencies[] = smartcrop
 dependencies[] = toolbar_styles
 dependencies[] = uuid
 dependencies[] = uuid_features
+dependencies[] = elements
+dependencies[] = html5_tools
+dependencies[] = fit_text
+dependencies[] = fences
+dependencies[] = google_plusone
+dependencies[] = fb_likebox
+dependencies[] = autosave
+dependencies[] = talk
+dependencies[] = block_class
+dependencies[] = imageblock
 
 files[] = cpj_news.profile
