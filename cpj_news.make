@@ -36,6 +36,12 @@ projects[uuid_features][version] = "1.0-alpha1"
 projects[formblock][subdir] = "contrib"
 projects[formblock][version] = "1.x-dev"
 
+projects[block_class][subdir] = "contrib"
+projects[block_class][version] = "1.0"
+
+projects[imageblock][subdir] = "contrib"
+projects[imageblock][version] = "1.2"
+
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.x-dev"
 
@@ -50,6 +56,24 @@ projects[date][version] = "2.x-dev"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
+
+projects[fit_text][subdir] = "contrib"
+projects[fit_text][version] = "1.0"
+
+projects[fences][subdir] = "contrib"
+projects[fences][version] = "1.x-dev"
+
+projects[google_plusone][subdir] = "contrib"
+projects[google_plusone][version] = "1.2"
+
+projects[fb_likebox][subdir] = "contrib"
+projects[fb_likebox][version] = "1.0"
+
+projects[autosave][subdir] = "contrib"
+projects[autosave][version] = "2.x-dev"
+
+projects[talk][subdir] = "contrib"
+projects[talk][version] = "1.x-dev"
 
 projects[image_resize_filter][subdir] = "contrib"
 projects[image_resize_filter][version] = "1.13"
@@ -216,6 +240,9 @@ projects[cpj_base_theme][type] = "theme"
 projects[cpj_base_theme][download][type] = "git"
 projects[cpj_base_theme][download][url] = "git://github.com/cpj/cpj_base_theme.git"
 
+projects[seepage][type] = "theme"
+projects[seepage][download][type] = "git"
+projects[seepage][download][url] = "git://github.com:cpj/seepage.git"
 
 
 ; Libraries
