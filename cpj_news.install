@@ -10,7 +10,7 @@
  */
 function cpj_news_install() {
   // Enable some standard blocks.
-  $default_theme = variable_get('theme_default', 'bartik');
+  $default_theme = variable_get('theme_default', 'seepage');
   $values = array(
     array(
       'module' => 'system',
