@@ -63,9 +63,6 @@ projects[elements][version] = "1.x-dev"
 projects[html5_tools][subdir] = "contrib"
 projects[html5_tools][version] = "1.x-dev"
 
-projects[fit_text][subdir] = "contrib"
-projects[fit_text][version] = "1.0"
-
 projects[fences][subdir] = "contrib"
 projects[fences][version] = "1.x-dev"
 
@@ -105,8 +102,8 @@ projects[feeds][version] = "2.0-alpha3"
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0-beta4"
 
-projects[pux][subdir] = "contrib"
-projects[pux][version] = "1.0-alpha2"
+projects[profile2][subdir] = "contrib"
+projects[profile2][version] = "1.x-dev"
 
 projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
@@ -248,7 +245,7 @@ projects[cpj_base_theme][download][url] = "git://github.com/cpj/cpj_base_theme.g
 
 projects[seepage][type] = "theme"
 projects[seepage][download][type] = "git"
-projects[seepage][download][url] = "git://github.com:cpj/seepage.git"
+projects[seepage][download][url] = "git://github.com/cpj/seepage.git"
 
 
 ; Libraries
