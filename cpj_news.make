@@ -46,7 +46,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.x-dev"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.x-dev"
+projects[date][version] = "2.0-alpha5"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
@@ -106,7 +106,7 @@ projects[workbench][subdir] = "contrib"
 projects[workbench][version] = "1.1"
 
 projects[workbench_moderation][subdir] = "contrib"
-projects[workbench_moderation][version] = "1.1"
+projects[workbench_moderation][version] = "1.x-dev"
 
 projects[workbench_access][subdir] = "contrib"
 projects[workbench_access][version] = "1.x-dev"
@@ -115,7 +115,7 @@ projects[flag][subdir] = "contrib"
 projects[flag][version] = "2.x-dev"
 
 projects[openlayers][subdir] = "contrib"
-projects[openlayers][version] = "2.x-dev"
+projects[openlayers][version] = "2.0-beta1"
 
 projects[geofield][subdir] = "contrib"
 projects[geofield][version] = "1.x-dev"
@@ -139,7 +139,7 @@ projects[addtoany][subdir] = "contrib"
 projects[addtoany][version] = "3.1"
 
 projects[linkit][subdir] = "contrib"
-projects[linkit][version] = "2.x-dev"
+projects[linkit][version] = "2.0-beta2"
 
 projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.12"
@@ -160,13 +160,19 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0"
 
 projects[advanced_help][subdir] = "contrib"
-projects[advanced_help][version] = "1.x-dev"
+projects[advanced_help][version] = "1.0"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.x-dev"
 
 projects[transliteration][subdir] = "contrib"
-projects[transliteration][version] = "3.0-alpha1"
+projects[transliteration][version] = "3.0"
+
+projects[realname][subdir] = "contrib"
+projects[realname][version] = "1.0-rc2"
+
+projects[realname_registration][subdir] = "contrib"
+projects[realname_registration][version] = "2.x-dev"
 
 projects[toolbar_styles][type] = "module"
 projects[toolbar_styles][subdir] = "contrib"
