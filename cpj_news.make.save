@@ -168,6 +168,9 @@ projects[field_slideshow][version] = "1.x-dev"
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.x-dev"
 
+projects[views_infinite_scroll][subdir] = "contrib"
+projects[views_infinite_scroll][version] = "1.x-dev"
+
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "2.x-dev"
 
