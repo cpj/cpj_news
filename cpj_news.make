@@ -240,3 +240,8 @@ projects[cpj_base_theme][download][url] = "git://github.com/cpj/cpj_base_theme.g
 libraries[tinymce][download][type] = "get"
 libraries[tinymce][download][url] = "https://sourceforge.net/projects/tinymce/files/TinyMCE/3.3.9.2/tinymce_3_3_9_2.zip"
 libraries[tinymce][directory_name] = "tinymce"
+
+; jquery cycle
+libraries[jquery_cycle][download][type] = "file"
+libraries[jquery_cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
+libraries[jquery_cycle][destination] = "libraries/jquery.cycle"
