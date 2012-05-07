@@ -127,7 +127,7 @@ projects[workbench_moderation][subdir] = "contrib"
 projects[workbench_moderation][version] = "1.x-dev"
 
 projects[workbench_access][subdir] = "contrib"
-projects[workbench_access][version] = "1.0"
+projects[workbench_access][version] = "1.x-dev"
 
 projects[flag][subdir] = "contrib"
 projects[flag][version] = "2.x-dev"
