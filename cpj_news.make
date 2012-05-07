@@ -15,6 +15,12 @@ core = 7.x
 ; the following example downloads the 3.x-dev version views module
 ; and places it in profiles/cpj_news/modules/contrib/views 
 
+projects[devel][subdir] = "contrib"
+projects[devel][version] = "1.2"
+
+projects[publish_date][subdir] = "contrib"
+projects[publish_date][version] = "1.1"
+
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.x-dev"
 
